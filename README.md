@@ -9,3 +9,6 @@ Given an array, find a value that has no duplication. I scored 100% for it.
 
 # codility-FrogJmp
 FrogJmp is the third lesson number 1 out of three in the list for Time Complexity algorithm. Basically, it is an algorithm to count the number of the jump from one X location to Y location when the number of the step taken is given as Z for each single jump
+
+# codility-PermMissingElem
+This is a lesson in codility for the Time Complexity algorithm. Given an array of integer, you need to find the lowest missing integer.
