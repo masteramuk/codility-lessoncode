@@ -12,3 +12,6 @@ FrogJmp is the third lesson number 1 out of three in the list for Time Complexit
 
 # codility-PermMissingElem
 This is a lesson in codility for the Time Complexity algorithm. Given an array of integer, you need to find the lowest missing integer.
+
+# codility-TapeEquilibrium
+Given an array of int (ranging from -ve to +ve value) with the minimum number of an element is 2 and the maximum element is 100,000, you need to find the lowest difference between two sets of value (of the total sum of the array)
