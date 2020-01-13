@@ -15,3 +15,6 @@ This is a lesson in codility for the Time Complexity algorithm. Given an array o
 
 # codility-TapeEquilibrium
 Given an array of int (ranging from -ve to +ve value) with the minimum number of an element is 2 and the maximum element is 100,000, you need to find the lowest difference between two sets of value (of the total sum of the array)
+
+# codility-FrogRiverOne
+Find the earliest time when a frog can jump to the other side of a river. This is the fourth lesson in Codility. You need to find the fastest (earliest) time possible for a frog to start jumping towards the other side of the river. You will be given an array that reflecting the position of jumping/landing point for the frog.
