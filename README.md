@@ -18,3 +18,6 @@ Given an array of int (ranging from -ve to +ve value) with the minimum number of
 
 # codility-FrogRiverOne
 Find the earliest time when a frog can jump to the other side of a river. This is the fourth lesson in Codility. You need to find the fastest (earliest) time possible for a frog to start jumping towards the other side of the river. You will be given an array that reflecting the position of jumping/landing point for the frog.
+
+# codility-PermCheck
+This is the second lesson in Codility. Given an array of integer N, you need to find if the given array is a permutation array or perfect array in sequence (if all numbers are sorted accordingly). The full explanation of the lesson is at https://app.codility.com.
